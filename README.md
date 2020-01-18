@@ -1,6 +1,8 @@
 # coworking
 a list of cool coworking spaces
 
+## locations
+
 - **Poland**
   - Gliwice
     - [Technopark](http://technopark.gliwice.pl/oferta/coworking)
@@ -15,3 +17,7 @@ a list of cool coworking spaces
     - [MUG](https://www.space.mug.pl)
   - Gdynia
     - [Concept Space](https://www.conceptspace.pl)
+    
+## resources
+
+- https://www.coworker.com
